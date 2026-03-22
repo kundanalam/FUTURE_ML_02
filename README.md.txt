@@ -15,6 +15,6 @@ This project is a machine learning-based web application that classifies custome
 pip install -r requirements.txt
 streamlit run app1.py
 
-# update
+# update 
 
 
